@@ -1,9 +1,6 @@
 #!/usr/bin/ruby
 
-###
-### $Release: $
-### $Copyright$
-###
+
 
 require 'rubygems' unless defined?(Gem)
 
